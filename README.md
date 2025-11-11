@@ -1,6 +1,6 @@
 # Between Death and Data: Algorithmic Afterlives and the Ethics of Digital Continuity
 
-This repository contains the data and code for the paper: **“Between Death and Data: Algorithmic Afterlives and the Ethics of Digital Continuity.”** The analysis examines public perceptions and emotional responses to AI-mediated interactions with representations of the deceased, using data from YouTube comments.
+This repository contains the data and code for the analysis in the paper: **“Between Death and Data: Algorithmic Afterlives and the Ethics of Digital Continuity.”** The analysis examines public perceptions and emotional responses to AI-mediated interactions with representations of the deceased, using data from YouTube comments.
 
 ## Overview
 
