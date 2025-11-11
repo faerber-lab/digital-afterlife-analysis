@@ -13,20 +13,17 @@ We analyzed **2,637 comments** from the YouTube documentary *“Living Forever T
 
 | File | Description |
 |------|-------------|
-| `crawl.py` | Script for scraping YouTube comments. |
-| `preprocess.py` | Script for cleaning and preparing text data for analysis. |
-| `sentiment-analysis.py` | Script for performing sentiment analysis using fine-tuned LLMs. |
-| `bertopic-analysis.py` | Script for topic modeling with BERTopic. |
-| `pipeline.ipynb` | Jupyter notebook demonstrating the full analysis pipeline. |
+| `data/` | The dataset contains the YouTube comments, and the results of the analysis. |
+| `src/crawl.py` | Script for scraping YouTube comments. |
+| `src/preprocess.py` | Script for cleaning and preparing text data for analysis. |
+| `src/sentiment-analysis.py` | Script for performing sentiment analysis using fine-tuned LLMs. |
+| `src/bertopic-analysis.py` | Script for topic modeling with BERTopic. |
+| `src/pipeline.ipynb` | Jupyter notebook demonstrating the full analysis pipeline. |
 
 
 ## Explore the Full Analysis
 
 Open `pipeline.ipynb` in Jupyter Notebook or Jupyter Lab.
-
-## Data
-
-The dataset contains YouTube comments collected in accordance with YouTube’s Terms of Service. The preprocessed data used in the analyses is included in the repository.
 
 ## License
 
