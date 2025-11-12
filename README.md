@@ -22,7 +22,7 @@ To perform the full data processing and analysis, run the [`pipeline.ipynb`](pip
 
 To download and analyze comments from your own YouTube video, change the YouTube URL in the notebook as shown below:
 ```
-youtube_url = 'https://www.youtube.com/watch?v=LTduwK0-sGI'  # Change this to your desired video URL
+URL = "https://www.youtube.com/watch?v=5udOx8-QxtE" # Change this to your desired video URL
 ```
 This will automatically retrieve comments from the specified video and integrate them into the analysis pipeline.
 
