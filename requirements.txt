@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+youtube-comment-downloader
+nltk
+jupyter
+notebook
+tqdm
+bertopic
+transformers
+torch
