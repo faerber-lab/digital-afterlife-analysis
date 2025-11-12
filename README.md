@@ -18,7 +18,7 @@ First, install all dependencies by running:
 ```
 pip install -r requirements.txt
 ```
-To perform the full data processing and analysis, run the [`pipeline-analysis.ipynb`](pipeline-analysis.ipynb) notebook in in Jupyter Notebook or Jupyter Lab. 
+To perform the full data processing and analysis, run the [`pipeline.ipynb`](pipeline.ipynb) notebook in in Jupyter Notebook or Jupyter Lab. 
 
 To download and analyze comments from your own YouTube video, change the YouTube URL in the notebook as shown below:
 ```
