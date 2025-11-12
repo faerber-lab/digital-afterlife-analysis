@@ -1,4 +1,4 @@
-# Between Death and Data: Algorithmic Afterlives and the Ethics of Digital Continuity
+# Between Death and Data: Algorithmic Afterlives and the Ethics of Digital Continuity (2025)
 
 This repository contains the data and code for the analysis in the paper: **“Between Death and Data: Algorithmic Afterlives and the Ethics of Digital Continuity.”** The analysis examines public perceptions and emotional responses to AI-mediated interactions with representations of the deceased, using data from YouTube comments.
 
@@ -8,6 +8,10 @@ We analyzed **2,637 comments** from the YouTube documentary *“Living Forever T
 
 - **Sentiment Analysis** using fine-tuned large language models (LLMs)
 - **Unsupervised Topic Modeling** with BERTopic
+
+## Explore the Full Analysis
+
+Open `pipeline-analysis.ipynb` in Jupyter Notebook or Jupyter Lab.
 
 ## Repository Contents
 
@@ -20,10 +24,6 @@ We analyzed **2,637 comments** from the YouTube documentary *“Living Forever T
 | `src/bertopic-analysis.py` | Script for topic modeling with BERTopic. |
 | `src/pipeline.ipynb` | Jupyter notebook demonstrating the full analysis pipeline. |
 
-
-## Explore the Full Analysis
-
-Open `pipeline.ipynb` in Jupyter Notebook or Jupyter Lab.
 
 ## License
 
