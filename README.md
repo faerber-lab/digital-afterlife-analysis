@@ -1,7 +1,7 @@
 # Supplementary Materials
-## Between Death and Data: Algorithmic Afterlives and the Ethics of Digital Continuity (2025)
+## Griefbots and the Governance of Posthumous AI: A Normative Framework (2026)
 
-This repository contains the data and code accompanying the paper "_Between Death and Data: Algorithmic Afterlives and the Ethics of Digital Continuity._"
+This repository contains the data and code accompanying the paper "_Griefbots and the Governance of Posthumous AI: A Normative Framework._"
 The analysis explores public perceptions and emotional responses to AI-mediated interactions with digital representations of the deceased, based on a dataset of YouTube comments.
 
 ## Overview
